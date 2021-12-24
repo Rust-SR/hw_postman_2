@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "41b71d32-2622-4e6f-8746-b16d33a4c8e4",
+		"name": "postman_hw_2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "first",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/first",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"first"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
